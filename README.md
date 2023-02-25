@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python for Data Science, Machine Learning and Parametric Design of Structural Systems
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="KeskinHakan's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=KeskinHakan&show_icons=true&count_private=true&hide=contribs,issues" alt="KeskinHakan's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeskinHakan&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
