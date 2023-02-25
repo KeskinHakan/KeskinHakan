@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KeskinHakan/KeskinHakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science, Machine Learning and Structural Engineering
 - 🌱 I’m currently learning Python for Data Science, Machine Learning and Parametric Design of Structural Systems
