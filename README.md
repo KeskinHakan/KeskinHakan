@@ -10,4 +10,4 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/hakankeskin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-keskin-/)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/hakankeskin)
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@hakan-keskin) 
