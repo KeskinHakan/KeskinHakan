@@ -11,3 +11,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/hakankeskin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-keskin-/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@hakan-keskin) 
+[![Linkedin Badge](https://img.shields.io/badge/hakankeskin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-keskin-/)
