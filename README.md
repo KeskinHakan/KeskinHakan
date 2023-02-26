@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keskinhakan&label=Profile%20views&color=0e75b6&style=flat" alt="keskinhakan" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 
 - 🔭 I’m currently working on Data Science, Machine Learning and Structural Engineering
 - 🌱 I’m currently learning Python for Data Science, Machine Learning and Parametric Design of Structural Systems
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
 <a href="https://linkedin.com/in/hakan-keskin-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan-keskin-" height="30" width="40" /></a>
 <a href="https://kaggle.com/hakankeskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hakankeskin" height="30" width="40" /></a>
 <a href="https://medium.com/@hakan-keskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakan-keskin" height="30" width="40" /></a>
